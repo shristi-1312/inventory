@@ -1,0 +1,27 @@
+[
+  {
+    "CURRENT ISSUE": "autocomplete trie implementation",
+    "progress/notes": "testing, mostly checking data pipeline"
+  },
+  {
+    "issue": "Enter key down on autocomplete inputs in FormBottleDetails.jsx needs to select option not exit form"
+  },
+  {
+    "issue": "Change vintage to number, need validation on FormBottleDetails (e.g. no negative numbers) "
+  },
+  {
+    "issue": "Inventory blank fields set to -- or N/A or something similar, vintage = N.V. "
+  },
+  {
+    "issue": "Inventory pagination for many items "
+  },
+  {
+    "issue": "Bottle search Inventory feature"
+  },
+  {
+    "issue": "Merge uniqueBottle datasets, ?clean data?"
+  },
+  {
+    "issue": "More efficient MongoDB data structure if there are many users and many bottles"
+  }
+]

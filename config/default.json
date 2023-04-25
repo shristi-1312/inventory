@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://shristi_13:parrot32@cluster0.kmh7ohd.mongodb.net/terracotta?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
